@@ -1,0 +1,13 @@
+com\exp\dynamicroles\model\UserRole.class
+com\exp\dynamicroles\service\AuthenticationService.class
+com\exp\dynamicroles\model\RoleAction.class
+com\exp\dynamicroles\model\Action.class
+com\exp\dynamicroles\model\UrlRolesBean.class
+com\exp\dynamicroles\model\User.class
+com\exp\dynamicroles\model\LoggedUser.class
+com\exp\dynamicroles\service\AppService.class
+com\exp\dynamicroles\dao\AppDAO.class
+com\exp\dynamicroles\service\UrlCache.class
+com\exp\dynamicroles\controllers\AuthenticationController.class
+com\exp\dynamicroles\service\DbFilterInvocationSecurityMetadataSource.class
+com\exp\dynamicroles\model\Role.class
